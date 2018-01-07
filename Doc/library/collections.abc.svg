@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="742px" preserveAspectRatio="none" style="width:1228px;height:742px;" version="1.1" viewBox="0 0 1228 742" width="1228px" zoomAndPan="magnify"><defs><filter height="300%" id="f1azspovp7daah" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--class Awaitable--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="52.7734" id="Awaitable" style="stroke: #000000; stroke-width: 1.5;" width="89" x="6" y="8"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="19" y="24.1387">Awaitable</text><line style="stroke: #000000; stroke-width: 1.5;" x1="7" x2="94" y1="31.9688" y2="31.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="77" x="12" y="46.1792">__await__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="7" x2="94" y1="52.7734" y2="52.7734"/><!--class Coroutine--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="91.1875" id="Coroutine" style="stroke: #000000; stroke-width: 1.5;" width="89" x="6" y="121"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="19" y="137.1387">Coroutine</text><line style="stroke: #000000; stroke-width: 1.5;" x1="7" x2="94" y1="144.9688" y2="144.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="77" x="12" y="159.1792">__await__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="42" x="12" y="171.9839">send()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="49" x="12" y="184.7886">throw()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="7" x2="94" y1="191.3828" y2="191.3828"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="49" x="12" y="205.5933">close()</text><!--class AsyncIterable--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="52.7734" id="AsyncIterable" style="stroke: #000000; stroke-width: 1.5;" width="97" x="130" y="8"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="91" x="133" y="24.1387">AsyncIterable</text><line style="stroke: #000000; stroke-width: 1.5;" x1="131" x2="226" y1="31.9688" y2="31.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="77" x="136" y="46.1792">__aiter__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="131" x2="226" y1="52.7734" y2="52.7734"/><!--class AsyncIterator--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="65.5781" id="AsyncIterator" style="stroke: #000000; stroke-width: 1.5;" width="97" x="130" y="133.5"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="91" x="133" y="149.6387">AsyncIterator</text><line style="stroke: #000000; stroke-width: 1.5;" x1="131" x2="226" y1="157.4688" y2="157.4688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="77" x="136" y="171.6792">__anext__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="131" x2="226" y1="178.2734" y2="178.2734"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="77" x="136" y="192.4839">__aiter__()</text><!--class AsyncGenerator--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="103.9922" id="AsyncGenerator" style="stroke: #000000; stroke-width: 1.5;" width="104" x="126.5" y="323"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="98" x="129.5" y="339.1387">AsyncGenerator</text><line style="stroke: #000000; stroke-width: 1.5;" x1="127.5" x2="229.5" y1="346.9688" y2="346.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="49" x="132.5" y="361.1792">asend()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="56" x="132.5" y="373.9839">athrow()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="127.5" x2="229.5" y1="380.5781" y2="380.5781"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="77" x="132.5" y="394.7886">__aiter__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="77" x="132.5" y="407.5933">__anext__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="49" x="132.5" y="420.3979">close()</text><!--class Iterable--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="52.7734" id="Iterable" style="stroke: #000000; stroke-width: 1.5;" width="82" x="396.5" y="8"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="56" x="409.5" y="24.1387">Iterable</text><line style="stroke: #000000; stroke-width: 1.5;" x1="397.5" x2="477.5" y1="31.9688" y2="31.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="402.5" y="46.1792">__iter__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="397.5" x2="477.5" y1="52.7734" y2="52.7734"/><!--class Reversible--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="52.7734" id="Reversible" style="stroke: #000000; stroke-width: 1.5;" width="110" x="382.5" y="140"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="402.5" y="156.1387">Reversible</text><line style="stroke: #000000; stroke-width: 1.5;" x1="383.5" x2="491.5" y1="163.9688" y2="163.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="98" x="388.5" y="178.1792">__reversed__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="383.5" x2="491.5" y1="184.7734" y2="184.7734"/><!--class Iterator--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="65.5781" id="Iterator" style="stroke: #000000; stroke-width: 1.5;" width="82" x="265.5" y="133.5"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="56" x="278.5" y="149.6387">Iterator</text><line style="stroke: #000000; stroke-width: 1.5;" x1="266.5" x2="346.5" y1="157.4688" y2="157.4688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="271.5" y="171.6792">__next__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="266.5" x2="346.5" y1="178.2734" y2="178.2734"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="70" x="271.5" y="192.4839">__iter__()</text><!--class Generator--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="103.9922" id="Generator" style="stroke: #000000; stroke-width: 1.5;" width="82" x="265.5" y="323"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="275" y="339.1387">Generator</text><line style="stroke: #000000; stroke-width: 1.5;" x1="266.5" x2="346.5" y1="346.9688" y2="346.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="42" x="271.5" y="361.1792">send()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="49" x="271.5" y="373.9839">throw()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="266.5" x2="346.5" y1="380.5781" y2="380.5781"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="70" x="271.5" y="394.7886">__iter__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="70" x="271.5" y="407.5933">__next__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="49" x="271.5" y="420.3979">close()</text><!--class Sized--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="52.7734" id="Sized" style="stroke: #000000; stroke-width: 1.5;" width="75" x="754" y="8"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="35" x="774" y="24.1387">Sized</text><line style="stroke: #000000; stroke-width: 1.5;" x1="755" x2="828" y1="31.9688" y2="31.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="760" y="46.1792">__len__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="755" x2="828" y1="52.7734" y2="52.7734"/><!--class Collection--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="78.3828" id="Collection" style="stroke: #000000; stroke-width: 1.5;" width="110" x="527.5" y="127.5"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="547.5" y="143.6387">Collection</text><line style="stroke: #000000; stroke-width: 1.5;" x1="528.5" x2="636.5" y1="151.4688" y2="151.4688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="98" x="533.5" y="165.6792">__contains__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="533.5" y="178.4839">__iter__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="533.5" y="191.2886">__len__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="528.5" x2="636.5" y1="197.8828" y2="197.8828"/><!--class Container--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="52.7734" id="Container" style="stroke: #000000; stroke-width: 1.5;" width="110" x="527.5" y="8"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="551" y="24.1387">Container</text><line style="stroke: #000000; stroke-width: 1.5;" x1="528.5" x2="636.5" y1="31.9688" y2="31.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="98" x="533.5" y="46.1792">__contains__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="528.5" x2="636.5" y1="52.7734" y2="52.7734"/><!--class Sequence--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="129.6016" id="Sequence" style="stroke: #000000; stroke-width: 1.5;" width="110" x="382.5" y="310"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="56" x="409.5" y="326.1387">Sequence</text><line style="stroke: #000000; stroke-width: 1.5;" x1="383.5" x2="491.5" y1="333.9688" y2="333.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="91" x="388.5" y="348.1792">__getitem__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="388.5" y="360.9839">__len__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="383.5" x2="491.5" y1="367.5781" y2="367.5781"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98" x="388.5" y="381.7886">__contains__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="70" x="388.5" y="394.5933">__iter__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98" x="388.5" y="407.3979">__reversed__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="49" x="388.5" y="420.2026">count()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="49" x="388.5" y="433.0073">index()</text><!--class Mapping--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="155.2109" id="Mapping" style="stroke: #000000; stroke-width: 1.5;" width="110" x="527.5" y="297.5"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="49" x="558" y="313.6387">Mapping</text><line style="stroke: #000000; stroke-width: 1.5;" x1="528.5" x2="636.5" y1="321.4688" y2="321.4688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="91" x="533.5" y="335.6792">__getitem__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="533.5" y="348.4839">__iter__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="533.5" y="361.2886">__len__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="528.5" x2="636.5" y1="367.8828" y2="367.8828"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98" x="533.5" y="382.0933">__contains__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="533.5" y="394.8979">__eq__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="35" x="533.5" y="407.7026">get()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="42" x="533.5" y="420.5073">keys()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="533.5" y="433.312">values()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="49" x="533.5" y="446.1167">items()</text><!--class Set--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="206.4297" id="Set" style="stroke: #000000; stroke-width: 1.5;" width="110" x="678.5" y="272"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="21" x="723" y="288.1387">Set</text><line style="stroke: #000000; stroke-width: 1.5;" x1="679.5" x2="787.5" y1="295.9688" y2="295.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="98" x="684.5" y="310.1792">__contains__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="684.5" y="322.9839">__iter__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="684.5" y="335.7886">__len__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="679.5" x2="787.5" y1="342.3828" y2="342.3828"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="684.5" y="356.5933">__le__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="684.5" y="369.3979">__lt__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="684.5" y="382.2026">__eq__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="684.5" y="395.0073">__gt__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="684.5" y="407.812">__ge__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="63" x="684.5" y="420.6167">__and__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="684.5" y="433.4214">__or__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="63" x="684.5" y="446.2261">__sub__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="63" x="684.5" y="459.0308">__xor__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="84" x="684.5" y="471.8354">isdisjoint()</text><!--class MappingView--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="52.7734" id="MappingView" style="stroke: #000000; stroke-width: 1.5;" width="83" x="903" y="348.5"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="77" x="906" y="364.6387">MappingView</text><line style="stroke: #000000; stroke-width: 1.5;" x1="904" x2="985" y1="372.4688" y2="372.4688"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="904" x2="985" y1="380.4688" y2="380.4688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="63" x="909" y="394.6792">__len__()</text><!--class KeysView--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="65.5781" id="KeysView" style="stroke: #000000; stroke-width: 1.5;" width="110" x="817.5" y="602"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="56" x="844.5" y="618.1387">KeysView</text><line style="stroke: #000000; stroke-width: 1.5;" x1="818.5" x2="926.5" y1="625.9688" y2="625.9688"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="818.5" x2="926.5" y1="633.9688" y2="633.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98" x="823.5" y="648.1792">__contains__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="70" x="823.5" y="660.9839">__iter__()</text><!--class ValuesView--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="65.5781" id="ValuesView" style="stroke: #000000; stroke-width: 1.5;" width="110" x="1107.5" y="602"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="1127.5" y="618.1387">ValuesView</text><line style="stroke: #000000; stroke-width: 1.5;" x1="1108.5" x2="1216.5" y1="625.9688" y2="625.9688"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="1108.5" x2="1216.5" y1="633.9688" y2="633.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98" x="1113.5" y="648.1792">__contains__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="70" x="1113.5" y="660.9839">__iter__()</text><!--class ItemsView--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="65.5781" id="ItemsView" style="stroke: #000000; stroke-width: 1.5;" width="110" x="962.5" y="602"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="986" y="618.1387">ItemsView</text><line style="stroke: #000000; stroke-width: 1.5;" x1="963.5" x2="1071.5" y1="625.9688" y2="625.9688"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="963.5" x2="1071.5" y1="633.9688" y2="633.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98" x="968.5" y="648.1792">__contains__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="70" x="968.5" y="660.9839">__iter__()</text><!--class MutableSequence--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="193.625" id="MutableSequence" style="stroke: #000000; stroke-width: 1.5;" width="111" x="381" y="538"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="105" x="384" y="554.1387">MutableSequence</text><line style="stroke: #000000; stroke-width: 1.5;" x1="382" x2="491" y1="561.9688" y2="561.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="91" x="387" y="576.1792">__getitem__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="91" x="387" y="588.9839">__setitem__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="91" x="387" y="601.7886">__delitem__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="387" y="614.5933">__len__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="56" x="387" y="627.3979">insert()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="382" x2="491" y1="633.9922" y2="633.9922"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="70" x="387" y="648.2026">__iadd__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="387" y="661.0073">append()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="49" x="387" y="673.812">clear()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="387" y="686.6167">extend()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="35" x="387" y="699.4214">pop()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="63" x="387" y="712.2261">reverse()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="387" y="725.0308">remove()</text><!--class ByteString--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="65.5781" id="ByteString" style="stroke: #000000; stroke-width: 1.5;" width="103" x="243" y="602"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="259.5" y="618.1387">ByteString</text><line style="stroke: #000000; stroke-width: 1.5;" x1="244" x2="345" y1="625.9688" y2="625.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="91" x="249" y="640.1792">__getitem__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="249" y="652.9839">__len__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="244" x2="345" y1="659.5781" y2="659.5781"/><!--class MutableMapping--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="193.625" id="MutableMapping" style="stroke: #000000; stroke-width: 1.5;" width="110" x="527.5" y="538"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="98" x="533.5" y="554.1387">MutableMapping</text><line style="stroke: #000000; stroke-width: 1.5;" x1="528.5" x2="636.5" y1="561.9688" y2="561.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="91" x="533.5" y="576.1792">__getitem__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="91" x="533.5" y="588.9839">__setitem__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="91" x="533.5" y="601.7886">__delitem__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="533.5" y="614.5933">__iter__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="533.5" y="627.3979">__len__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="528.5" x2="636.5" y1="633.9922" y2="633.9922"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="533.5" y="648.2026">__eq__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98" x="533.5" y="661.0073">__contains__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="35" x="533.5" y="673.812">pop()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="63" x="533.5" y="686.6167">popitem()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="49" x="533.5" y="699.4214">clear()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="533.5" y="712.2261">update()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="84" x="533.5" y="725.0308">setdefault()</text><!--class MutableSet--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="193.625" id="MutableSet" style="stroke: #000000; stroke-width: 1.5;" width="110" x="672.5" y="538"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="692.5" y="554.1387">MutableSet</text><line style="stroke: #000000; stroke-width: 1.5;" x1="673.5" x2="781.5" y1="561.9688" y2="561.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="98" x="678.5" y="576.1792">__contains__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="678.5" y="588.9839">__iter__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="678.5" y="601.7886">__len__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="35" x="678.5" y="614.5933">add()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="678.5" y="627.3979">discard()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="673.5" x2="781.5" y1="633.9922" y2="633.9922"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="63" x="678.5" y="648.2026">__ior__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="70" x="678.5" y="661.0073">__iand__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="70" x="678.5" y="673.812">__isub__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="70" x="678.5" y="686.6167">__ixor__()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="49" x="678.5" y="699.4214">clear()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="35" x="678.5" y="712.2261">pop()</text><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="678.5" y="725.0308">remove()</text><!--class Callable--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="52.7734" id="Callable" style="stroke: #000000; stroke-width: 1.5;" width="82" x="864.5" y="8"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="56" x="877.5" y="24.1387">Callable</text><line style="stroke: #000000; stroke-width: 1.5;" x1="865.5" x2="945.5" y1="31.9688" y2="31.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="870.5" y="46.1792">__call__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="865.5" x2="945.5" y1="52.7734" y2="52.7734"/><!--class Hashable--><rect fill="#FFFFFF" filter="url(#f1azspovp7daah)" height="52.7734" id="Hashable" style="stroke: #000000; stroke-width: 1.5;" width="82" x="981.5" y="8"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="56" x="994.5" y="24.1387">Hashable</text><line style="stroke: #000000; stroke-width: 1.5;" x1="982.5" x2="1062.5" y1="31.9688" y2="31.9688"/><text fill="#000000" font-family="DejaVu Sans Mono" font-size="11" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="987.5" y="46.1792">__hash__()</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,2.0;" x1="982.5" x2="1062.5" y1="52.7734" y2="52.7734"/><!--link Awaitable to Coroutine--><path d="M50.5,81.4088 C50.5,94.2274 50.5,108.0973 50.5,120.8449 " fill="none" id="Awaitable-Coroutine" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="43.5001,81.2122,50.5,61.2122,57.5001,81.2121,43.5001,81.2122" style="stroke: #000000; stroke-width: 1.0;"/><!--link AsyncIterable to AsyncIterator--><path d="M178.5,81.2188 C178.5,98.406 178.5,117.5056 178.5,133.2654 " fill="none" id="AsyncIterable-AsyncIterator" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="171.5001,81.2122,178.5,61.2122,185.5001,81.2121,171.5001,81.2122" style="stroke: #000000; stroke-width: 1.0;"/><!--link AsyncIterator to AsyncGenerator--><path d="M178.5,219.8661 C178.5,251.4281 178.5,291.2346 178.5,322.6222 " fill="none" id="AsyncIterator-AsyncGenerator" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="171.5001,219.5375,178.5,199.5374,185.5001,219.5374,171.5001,219.5375" style="stroke: #000000; stroke-width: 1.0;"/><!--link Iterable to Reversible--><path d="M437.5,81.5039 C437.5,101.0861 437.5,123.1072 437.5,139.8276 " fill="none" id="Iterable-Reversible" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="430.5001,81.2122,437.5,61.2122,444.5001,81.2121,430.5001,81.2122" style="stroke: #000000; stroke-width: 1.0;"/><!--link Iterable to Iterator--><path d="M396.7128,75.5985 C378.3075,94.1444 356.8515,115.7642 339.4828,133.2654 " fill="none" id="Iterable-Iterator" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="391.9334,70.4771,410.9902,61.2122,401.8704,80.3389,391.9334,70.4771" style="stroke: #000000; stroke-width: 1.0;"/><!--link Iterator to Generator--><path d="M306.5,219.8661 C306.5,251.4281 306.5,291.2346 306.5,322.6222 " fill="none" id="Iterator-Generator" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="299.5001,219.5375,306.5,199.5374,313.5001,219.5374,299.5001,219.5375" style="stroke: #000000; stroke-width: 1.0;"/><!--link Sized to Collection--><path d="M736.6595,69.1361 C706.1697,88.3928 668.3311,112.2909 637.7723,131.5912 " fill="none" id="Sized-Collection" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="733.0039,63.1657,753.6517,58.4042,740.4799,75.0025,733.0039,63.1657" style="stroke: #000000; stroke-width: 1.0;"/><!--link Iterable to Collection--><path d="M481.7493,74.7822 C500.0737,91.4637 521.2523,110.7435 539.4491,127.3088 " fill="none" id="Iterable-Collection" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="476.9202,79.8522,466.8429,61.2122,486.3448,69.4995,476.9202,79.8522" style="stroke: #000000; stroke-width: 1.0;"/><!--link Container to Collection--><path d="M582.5,81.4419 C582.5,96.4553 582.5,112.9078 582.5,127.3088 " fill="none" id="Container-Collection" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="575.5001,81.2122,582.5,61.2122,589.5001,81.2121,575.5001,81.2122" style="stroke: #000000; stroke-width: 1.0;"/><!--link Reversible to Sequence--><path d="M437.5,213.6561 C437.5,242.0476 437.5,278.6086 437.5,309.7464 " fill="none" id="Reversible-Sequence" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="430.5001,213.3309,437.5,193.3309,444.5001,213.3309,430.5001,213.3309" style="stroke: #000000; stroke-width: 1.0;"/><!--link Collection to Sequence--><path d="M543.5651,222.4857 C524.8728,249.3639 502.3606,281.7349 482.8942,309.7263 " fill="none" id="Collection-Sequence" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="538.0607,218.1403,555.2266,205.7173,549.5545,226.1336,538.0607,218.1403" style="stroke: #000000; stroke-width: 1.0;"/><!--link Collection to Mapping--><path d="M582.5,225.7758 C582.5,247.9505 582.5,273.4837 582.5,297.089 " fill="none" id="Collection-Mapping" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="575.5001,225.7173,582.5,205.7173,589.5001,225.7172,575.5001,225.7173" style="stroke: #000000; stroke-width: 1.0;"/><!--link Collection to Set--><path d="M622.701,222.0094 C639.7526,245.5541 659.9041,273.3792 678.3145,298.8001 " fill="none" id="Collection-Set" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="616.9637,226.0214,610.9019,205.7173,628.3024,217.8096,616.9637,226.0214" style="stroke: #000000; stroke-width: 1.0;"/><!--link Sized to MappingView--><path d="M811.7837,79.6411 C844.1441,151.659 906.4585,290.339 932.5501,348.4057 " fill="none" id="Sized-MappingView" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="805.3179,82.3305,803.5057,61.2185,818.088,76.5923,805.3179,82.3305" style="stroke: #000000; stroke-width: 1.0;"/><!--link MappingView to KeysView--><path d="M931.6641,421.352 C917.2975,473.2311 894.3763,556.0021 881.6937,601.8005 " fill="none" id="MappingView-KeysView" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="924.9822,419.2517,937.0659,401.8453,938.4744,422.9881,924.9822,419.2517" style="stroke: #000000; stroke-width: 1.0;"/><!--link MappingView to ValuesView--><path d="M983.5197,416.4194 C1013.5706,448.8228 1055.7171,495.3795 1090.5,538 C1107.3407,558.6354 1125.1921,582.6691 1138.9068,601.6509 " fill="none" id="MappingView-ValuesView" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="978.3419,421.1308,969.8243,401.7284,988.5823,411.5844,978.3419,421.1308" style="stroke: #000000; stroke-width: 1.0;"/><!--link MappingView to ItemsView--><path d="M957.5142,421.352 C972.0803,473.2311 995.3198,556.0021 1008.1786,601.8005 " fill="none" id="MappingView-ItemsView" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="950.7043,422.993,952.0373,401.8453,964.1831,419.2085,950.7043,422.993" style="stroke: #000000; stroke-width: 1.0;"/><!--link Set to KeysView--><path d="M798.1235,495.8784 C818.9206,534.7796 840.303,574.7754 854.7723,601.8403 " fill="none" id="Set-KeysView" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="791.8924,499.0703,788.6361,478.1323,804.2387,492.4697,791.8924,499.0703" style="stroke: #000000; stroke-width: 1.0;"/><!--link Set to ItemsView--><path d="M805.1793,422.548 C848.2645,452.9035 902.8281,494.5994 945.5,538 C964.6148,557.4413 982.883,582.1512 996.2353,601.7655 " fill="none" id="Set-ItemsView" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="801.11,428.2445,788.6828,411.0816,809.1006,416.7488,801.11,428.2445" style="stroke: #000000; stroke-width: 1.0;"/><!--link Sequence to MutableSequence--><path d="M437.1716,460.3847 C437.0764,485.1244 436.9719,512.3173 436.8741,537.7263 " fill="none" id="Sequence-MutableSequence" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="430.172,460.2463,437.2489,440.2734,444.1719,460.3002,430.172,460.2463" style="stroke: #000000; stroke-width: 1.0;"/><!--link Sequence to ByteString--><path d="M391.8142,458.0651 C364.9795,506.8554 332.5414,565.8338 312.7228,601.8677 " fill="none" id="Sequence-ByteString" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="385.8277,454.4243,401.5996,440.2734,398.0947,461.1712,385.8277,454.4243" style="stroke: #000000; stroke-width: 1.0;"/><!--link Mapping to MutableMapping--><path d="M582.5,472.6615 C582.5,494.0095 582.5,516.5999 582.5,537.9249 " fill="none" id="Mapping-MutableMapping" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="575.5001,472.6564,582.5,452.6564,589.5001,472.6564,575.5001,472.6564" style="stroke: #000000; stroke-width: 1.0;"/><!--link Set to MutableSet--><path d="M730.6566,498.2123 C730.3491,511.5395 730.0393,524.962 729.7404,537.9177 " fill="none" id="Set-MutableSet" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="723.6604,497.9655,731.12,478.1323,737.6566,498.2885,723.6604,497.9655" style="stroke: #000000; stroke-width: 1.0;"/><!--
+@startuml
+
+skinparam defaultFontName DejaVu Sans Mono
+
+skinparam class {
+    BackgroundColor White
+    ArrowColor Black
+    BorderColor Black
+}
+
+hide members
+show methods
+hide circle
+
+Awaitable <|- - Coroutine
+
+AsyncIterable <|- - AsyncIterator
+AsyncIterator <|- - AsyncGenerator
+
+Iterable <|- - Reversible
+Iterable <|- - Iterator
+Iterator <|- - Generator
+
+Sized     <|- - Collection
+Iterable  <|- - Collection
+Container <|- - Collection
+
+Reversible <|- - Sequence
+
+Collection <|- - Sequence
+Collection <|- - Mapping
+Collection <|- - Set
+
+Sized <|- - MappingView
+
+MappingView <|- - KeysView
+MappingView <|- - ValuesView
+MappingView <|- - ItemsView
+
+Set <|- - KeysView
+Set <|- - ItemsView
+
+Sequence <|- - MutableSequence
+Sequence <|- - ByteString
+
+Mapping  <|- - MutableMapping
+Set      <|- - MutableSet
+
+
+abstract class Container {
+  {abstract} __contains__()
+  ..
+}
+
+abstract class Iterable {
+  {abstract} __iter__()
+  ..
+}
+
+abstract class Sized {
+  {abstract} __len__()
+  ..
+}
+
+abstract class Reversible {
+  {abstract} __reversed__()
+  ..
+}
+
+abstract class Iterator {
+  {abstract} __next__()
+  ..
+  __iter__()
+}
+
+abstract class Generator {
+  {abstract} send()
+  {abstract} throw()
+  ..
+  __iter__()
+  __next__()
+  close()
+}
+
+abstract class Collection {
+  {abstract} __contains__()
+  {abstract} __iter__()
+  {abstract} __len__()
+  ..
+}
+
+abstract class Set {
+  {abstract} __contains__()
+  {abstract} __iter__()
+  {abstract} __len__()
+  ..
+  __le__()
+  __lt__()
+  __eq__()
+  __gt__()
+  __ge__()
+  __and__()
+  __or__()
+  __sub__()
+  __xor__()
+  isdisjoint()
+}
+
+abstract class MutableSet {
+  {abstract} __contains__()
+  {abstract} __iter__()
+  {abstract} __len__()
+  {abstract} add()
+  {abstract} discard()
+  ..
+  __ior__()
+  __iand__()
+  __isub__()
+  __ixor__()
+  clear()
+  pop()
+  remove()
+}
+
+abstract class MappingView {
+  ..
+  __len__()
+}
+
+show MappingView members
+
+abstract class KeysView {
+  ..
+  __contains__()
+  __iter__()
+}
+
+abstract class ValuesView {
+  ..
+  __contains__()
+  __iter__()
+}
+
+abstract class ItemsView {
+  ..
+  __contains__()
+  __iter__()
+}
+
+abstract class Mapping {
+  {abstract} __getitem__()
+  {abstract} __iter__()
+  {abstract} __len__()
+  ..
+  __contains__()
+  __eq__()
+  get()
+  keys()
+  values()
+  items()
+}
+
+abstract class MutableMapping {
+  {abstract} __getitem__()
+  {abstract} __setitem__()
+  {abstract} __delitem__()
+  {abstract} __iter__()
+  {abstract} __len__()
+  ..
+  __eq__()
+  __contains__()
+  pop()
+  popitem()
+  clear()
+  update()
+  setdefault()
+}
+
+abstract class Sequence {
+  {abstract} __getitem__()
+  {abstract} __len__()
+  ..
+  __contains__()
+  __iter__()
+  __reversed__()
+  count()
+  index()
+}
+
+abstract class MutableSequence {
+  {abstract} __getitem__()
+  {abstract} __setitem__()
+  {abstract} __delitem__()
+  {abstract} __len__()
+  {abstract} insert()
+  ..
+  __iadd__()
+  append()
+  clear()
+  extend()
+  pop()
+  reverse()
+  remove()
+}
+
+abstract class ByteString {
+  {abstract} __getitem__()
+  {abstract} __len__()
+  ..
+}
+
+abstract class Callable {
+  {abstract} __call__()
+  ..
+}
+
+abstract class Hashable {
+  {abstract} __hash__()
+  ..
+}
+
+abstract class Awaitable {
+  {abstract} __await__()
+  ..
+}
+
+abstract class Coroutine {
+  {abstract} __await__()
+  {abstract} send()
+  {abstract} throw()
+  ..
+  close()
+}
+
+abstract class AsyncIterable {
+  {abstract} __aiter__()
+  ..
+}
+
+abstract class AsyncIterator {
+  {abstract} __anext__()
+  ..
+  __aiter__()
+}
+
+abstract class AsyncGenerator {
+  {abstract} asend()
+  {abstract} athrow()
+  ..
+  __aiter__()
+  __anext__()
+  close()
+}
+
+@enduml
+
+PlantUML version 1.2017.20(Mon Dec 11 16:57:05 UTC 2017)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_144-b01
+Operating System: Linux
+OS Version: 4.14.8-1-ARCH
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
