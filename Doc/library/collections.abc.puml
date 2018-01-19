@@ -1,4 +1,3 @@
-
 @startuml
 
 skinparam defaultFontName DejaVu Sans Mono
@@ -40,12 +39,35 @@ MappingView <|-- ItemsView
 
 Set <|-- KeysView
 Set <|-- ItemsView
+Collection <|-- ValuesView
 
 Sequence <|-- MutableSequence
 Sequence <|-- ByteString
-
 Mapping  <|-- MutableMapping
 Set      <|-- MutableSet
+
+
+Awaitable -[hidden]> AsyncIterable
+
+Coroutine -[hidden]> AsyncGenerator
+AsyncGenerator -[hidden]> Generator
+Generator -[hidden]> Sequence
+Sequence -[hidden]> Mapping
+Mapping -[hidden]> Set
+
+Reversible -[hidden]> Collection
+Collection -[hidden]> MappingView
+
+MappingView -[hidden]--> KeysView
+MappingView -[hidden]--> ValuesView
+MappingView -[hidden]--> ItemsView
+
+ByteString -[hidden]> MutableSequence
+MutableSequence -[hidden]> MutableMapping
+MutableMapping -[hidden]> MutableSet
+MutableSet -[hidden]> KeysView
+KeysView -[hidden]> ItemsView
+ItemsView -[hidden]> ValuesView
 
 
 abstract class Container {
@@ -253,5 +275,4 @@ abstract class AsyncGenerator {
   close()
 }
 
-@enduml
 @enduml
